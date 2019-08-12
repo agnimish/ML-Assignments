@@ -1,2 +1,2 @@
 # ML-Assignments
-My submission for Assignments for Machine Learning Course
+My submission for Assignments for online Machine Learning Course (Coursera)
